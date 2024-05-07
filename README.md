@@ -5,6 +5,7 @@ The program evaluates the implementation of rainwater harvesting systems in the 
 INPUT DATA:
   - file with rainfall (csv format);
   - file with demand, number and characteristics of households, tank volume for each type of household, tank prices, tariff structure, cost per volume for the utility, sizing and economic parameters (csv format).
+    
 STAGES:
 1) Continuous simulation of the daily mass balance for the different categories of households;
 2) Calculation of consumption (per month, per type of household and per year of the life span);
@@ -14,4 +15,4 @@ STAGES:
 3) Economic Evaluation (with and without rainwater harvesting);
   - Determination of the amount paid per type of household and for all of them (utility revenue);
   - Determination of the utility expenses for producing the consumed water volume per type of household and for all of them (utility expense);
-  - Determination of economic indicators;
+  - Determination of economic indicators.
