@@ -1,6 +1,6 @@
 # Rainwater-harvesting-feasibility-for-the-utility-and-for-users
 This code was developed during my PhD at UnB.
-The program evaluates the implementation of rainwater harvesting systems in the urban context, considering different categories of users who have varying catchment areas, consumption levels, and rainwater reservoir volumes. Using a rainfall dataset, water and sewage tariffs, and the cost of rainwater production, technical and economic performance indicators are calculated for both users and the sanitation company, with the potential implementation of rainwater harvesting systems.
+The program evaluates the implementation of rainwater harvesting systems in the urban context, considering different categories of users who have varying catchment areas, consumption levels, and rainwater reservoir volumes. Using a rainfall dataset, water and sewage tariffs and the cost of these services for the utility, technical and economic performance indicators are calculated for both users and the utility.
 
 INPUT DATA:
   - file with rainfall (csv format);
